@@ -5,8 +5,8 @@ account: cimentadaj
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 363068
-bundleId: 1437274
+bundleId: 1437565
 url: https://cimentadaj.shinyapps.io/gs_coauthorsip/
-when: 1529414350.64982
+when: 1529422468.82687
 asMultiple: FALSE
 asStatic: FALSE
